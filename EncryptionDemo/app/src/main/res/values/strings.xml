@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">编码、加密</string>
+    <string name="btn_base64">base64编解码</string>
+    <string name="btn_MD5">MD5加密</string>
+    <string name="btn_DES">对称——DES加解密</string>
+    <string name="btn_3DES">对称——3DES加解密</string>
+    <string name="btn_AES">对称——AES加解密</string>
+    <string name="btn_RSA">非对称——RSA加解密</string>
+    <string name="hint_base64">请输入需要编码的字符串</string>
+    <string name="hint_MD5">请输入需要加密的字符串</string>
+    <string name="tip_encode">编码</string>
+    <string name="tip_decode">解码</string>
+    <string name="tip_MD5">加密</string>
+    <string name="tip_encode1">加密</string>
+    <string name="tip_decode1">解密</string>
+</resources>
